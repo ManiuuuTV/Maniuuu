@@ -1,11 +1,11 @@
-<h2> Hey there! I'm Maniuuu.</h2>
+<h2> Cześć z tej strony Maniuuu.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;O mnie </h3>
 
-- 🤔 &nbsp; Explore coding and making cool stuff.
-- 💼 &nbsp; Working as no one.
+- 🤔 &nbsp; Poznaj mój świat kodowania i tworzenia wyjątkowych rzeczy.
+- 💼 &nbsp; bo cały mój czas idzie w EtopiaMC.PL.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;wszystko, czego używam, by tworzyć EtopiaMC i moje projekty</h3>
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
